@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pandora</string>
+    <string name="title_sdk_core">Sdk Core</string>
+    <string name="title_sdk_auth">Sdk Auth</string>
+</resources>

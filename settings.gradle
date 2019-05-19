@@ -1,0 +1,1 @@
+include ':app', ':sdk_core', ':sdk_auth'
